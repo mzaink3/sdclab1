@@ -75,6 +75,7 @@ public class ArithmeticSystem {
             } else {
                 System.out.println("Invalid input, please try again.");
             }
+            System.out.println("Thankyou! Have a Nice Day!");
         }
 
         scanner.close();
